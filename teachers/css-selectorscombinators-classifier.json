@@ -1,0 +1,15 @@
+{
+  "name": "CSS Selectors/Combinators Classifier",
+  "desc": "Organize and highlight CSS selectors and combinators by type",
+  "url": "https://selectors.info",
+  "tags": [
+    "CSS",
+    "HTML"
+  ],
+  "maintainers": [
+    "arbaouimehdi"
+  ],
+  "loginRequired": false,
+  "isPaid": false,
+  "addedAt": "2023-08-03"
+}
